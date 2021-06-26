@@ -1,0 +1,233 @@
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 0, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 0, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2}
+2
+1
+0
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 0, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 0, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2}
+1
+2
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 0, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2}
+2
+2
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2}
+1
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+0
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 2, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+2
+2
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 2, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+2
+cons2 bought Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+cons2 bought Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+cons2 bought Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+cons2 bought Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+2
+0
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+1
+2
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 2, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 2, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+0
+2
+2
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 0, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+2
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+2
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 0, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 0, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 0, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 2, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 0, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 0, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 2, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 0, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 0, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 0, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 2, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 0, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 0, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 0, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 0, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+0
+2
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 0, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 0, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+2
+0
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 0, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+0
+0
+0
+0
+0
+0
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+0
+cons5 bought Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+cons5 bought Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+cons5 bought Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+cons5 bought Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+1
+2
+cons5 bought Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+cons5 bought Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+0
+1
+0
+0
+cons1 bought Tea(name='Cactus fig', price=3, type='Green')
+cons1 bought Tea(name='Cactus fig', price=3, type='Green')
+cons1 bought Tea(name='Cactus fig', price=3, type='Green')
+cons1 bought Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+cons1 bought Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+cons1 bought Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 2, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 0, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 2, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 0, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 2, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 0, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 0, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+2
+cons4 bought Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+cons4 bought Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+cons4 bought Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+cons4 bought Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+cons4 bought Tea(name='Cactus fig', price=3, type='Green')
+cons4 bought Tea(name='Cactus fig', price=3, type='Green')
+cons4 bought Tea(name='Cactus fig', price=3, type='Green')
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 0, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+2
+0
+0
+cons2 bought Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+cons2 bought Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+cons2 bought Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+cons2 bought Tea(name='Cactus fig', price=3, type='Green')
+cons2 bought Tea(name='Cactus fig', price=3, type='Green')
+cons2 bought Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+cons2 bought Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+0
+0
+0
+0
+cons2 bought Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+cons2 bought Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+cons2 bought Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+cons2 bought Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 0, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 0, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 0, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 2, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 0, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 0, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 0, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 2, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 0, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 0, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 0, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 0, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 2, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 0, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 0, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 0, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 0, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+2
+cons1 bought Tea(name='Cactus fig', price=3, type='Green')
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 0, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+2
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 0, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 0, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 0, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 2, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 0, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 2, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 0, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 0, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 0, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 2, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 0, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 0, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 0, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+2
+cons5 bought Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+cons5 bought Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+cons5 bought Tea(name='Cactus fig', price=3, type='Green')
+cons5 bought Tea(name='Cactus fig', price=3, type='Green')
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 0, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 0, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+2
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 0, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 0, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 2, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 2, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 0, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 2, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 0, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 0, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+{Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'): 2, Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'): 1, Tea(name='Cactus fig', price=3, type='Green'): 2, Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'): 0}
+2
+2
+0
+0
+0
+0
+0
+0
+cons1 bought Tea(name='Cactus fig', price=3, type='Green')
+cons1 bought Tea(name='Cactus fig', price=3, type='Green')
+cons1 bought Tea(name='Cactus fig', price=3, type='Green')
+cons1 bought Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+cons1 bought Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+cons1 bought Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+cons1 bought Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')

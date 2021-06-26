@@ -1,0 +1,2581 @@
+Starting test 1
+Exception in thread cons1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Finished test 1
+Test 1:		FAILED
+Starting test 2
+Exception in thread cons1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Finished test 2
+Test 2:		FAILED
+Starting test 3
+Exception in thread cons1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons2:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons3:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons4:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons5:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Finished test 3
+Test 3:		FAILED
+Starting test 4
+Exception in thread cons1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Finished test 4
+Test 4:		FAILED
+Starting test 5
+Exception in thread cons1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons2:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons3:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons4:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons5:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Finished test 5
+Test 5:		FAILED
+Starting test 6
+Exception in thread cons1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons2:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons3:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons4:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons5:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Finished test 6
+Test 6:		FAILED
+Starting test 7
+Exception in thread cons1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons2:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons3:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons4:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons5:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons6:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons7:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons8:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons9:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons10:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Finished test 7
+Test 7:		FAILED
+Starting test 8
+Exception in thread cons1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons2:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons3:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons4:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons5:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons6:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons7:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons8:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons9:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons10:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons11:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons12:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons13:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons14:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons15:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons17:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons18:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons19:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons16:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons23:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons24:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons32:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons20:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons21:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons22:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons38:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons39:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons33:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons43:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons36:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons37:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons29:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons49:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons50:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons30:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons31:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons41:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons42:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons34:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons35:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons44:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons25:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons26:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons27:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons28:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons46:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons48:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons47:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons40:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons45:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Finished test 8
+Test 8:		FAILED
+Starting test 9
+Exception in thread cons1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons2:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons3:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons4:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons5:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Finished test 9
+Test 9:		FAILED
+Starting test 10
+Exception in thread cons1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons2:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons3:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons4:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons5:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons6:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons7:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons8:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons9:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons10:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons11:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons12:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons13:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons14:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons22:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons23:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons24:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons21:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons18:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons19:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons20:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons16:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons36:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons15:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons29:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons41:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons42:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons34:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons35:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons48:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons49:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons50:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons28:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons54:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons39:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons40:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons26:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons27:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons32:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons33:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons44:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons45:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons46:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons62:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons64:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons65:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons66:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons53:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons68:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons71:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons72:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons56:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons75:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons59:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons86:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons63:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons90:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons93:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons67:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons95:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons55:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons104:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons105:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons107:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons109:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons60:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons113:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons114:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons82:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons83:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons84:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons85:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons122:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons88:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons89:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons127:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons92:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons130:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons69:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons70:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons96:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons143:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons100:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons101:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons102:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons148:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons57:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons58:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons158:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons79:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons162:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons163:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons165:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons167:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons47:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons51:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons52:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons37:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons38:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons177:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons91:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons129:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons180:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons94:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons132:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons133:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons186:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons134:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons137:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons138:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons139:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons192:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons25:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons141:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons142:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons30:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons31:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons103:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons198:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons199:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons200:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons106:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons155:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons156:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons157:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons76:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons77:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons78:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons159:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons160:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons161:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons164:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons166:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons61:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons171:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons174:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons126:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons175:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons128:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons178:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons179:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons182:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons131:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons187:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons188:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons190:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons97:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons136:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons193:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons195:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons196:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons144:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons145:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons146:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons147:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons149:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons150:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons151:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons152:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons153:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons154:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons43:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons110:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons111:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons112:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons80:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons81:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons115:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons116:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons117:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons118:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons119:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons120:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons121:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons123:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons124:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons172:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons173:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons176:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons183:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons185:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons191:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons194:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons197:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons73:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons74:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons87:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons17:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons181:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons184:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons135:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons140:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons125:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons189:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+Exception in thread cons98:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons99:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons168:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread cons169:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+Exception in thread cons108:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Exception in thread cons170:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/consumer.py", line 46, in run
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+    cart_id = self.marketplace.new_cart()
+  File "/mnt/d/ASC/tema1/ASC-admin-asc-f941957bdc78/assignments/1-marketplace/skel/tema/marketplace.py", line 78, in new_cart
+    self.carts[cart_id] = []
+TypeError: 'int' object does not support item assignment
+Finished test 10
+Test 10:		FAILED
+
+Run pylint
+
+/usr/bin/python3: No module named pylint

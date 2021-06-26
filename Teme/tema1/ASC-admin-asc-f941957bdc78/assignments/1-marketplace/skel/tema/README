@@ -1,0 +1,44 @@
+Copyright @ 2021 Grecu Andrei-George 335CA, All rights reserved
+
+Marketplace - Multiple Producers/Multiple Consumers problem
+
+TEXT : https://ocw.cs.pub.ro/courses/asc/teme/tema1
+
+# Producatori
+
+Acest tip de thread creeaza produse noi bazat pe o lista de produse
+pe care le poate face.
+
+Produsele sunt publicate ca fiind disponibile catre Marketplace.
+
+Daca sunt acceptate de catre market(se intoarce True), producatorul
+asteapta un timp specificat pentru preparare, altfel el asteapta
+un timp dat la crearea threadului.
+
+# Consumatori
+
+Acesta creeaza carturi in cadrul marketplace-ului pentru a adauga
+sau a sterge produse in/din el.
+
+La finalizarea procesarilor asupra cart-ului(add/remove), de catre
+consumator, cart-ul este distribuit la marketplace.
+
+Ca la producatori, consumatorii asteapta un timp de adaugare/eliminare
+a produsului daca operatia este imposibila setat la initializarea thread-ului.
+
+# Marketplace
+
+Am implementat functiile sa utilizeze Lock-uri:
+    la register_producer pentru a nu modifica marimea structurii de
+        doua thread-uri concurente si pentru nu a primi acelasi id
+    la new_cart pentru a nu incrementa valoarea variabilei care tine
+        evidenta numarului de cart-uri in acelasi timp rezultand
+        acelasi indice
+    la add_to_cart si remove_from_cart pentru a nu lasa mai multi
+        consumatori sa stearga acelasi produs din lista mare de produse available
+    la place_order pentru asigurarea ca print-urile nu se intercaleaza
+si operatii pe obiecte thread-safe (append/pop)
+
+Ca sa ma asigur ca numarul maxim de produse pe care un producator le poate
+face, am folosit o lista unde tin aceste numere si practic unde modific/verific
+cu operatiile de publish/add_to_cart/remove_from_cart (prod_q_sizes).
